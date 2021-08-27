@@ -1,0 +1,7 @@
+#ifndef GMATHMACRO_H_SENTRY
+#define GMATHMACRO_H_SENTRY
+
+#define VAR_NAME(x) #x
+
+#endif /* GMATHMACRO_H_SENTRY */
+
